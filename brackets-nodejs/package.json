@@ -1,0 +1,18 @@
+{
+  "name": "brackets-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.17",
+    "moongoose": "0.0.5",
+    "serialport": "^9.0.0"
+  }
+}
